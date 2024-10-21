@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="259552d0-5229-49f9-b777-57ca5464a53b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignmentsdp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/ApprovalChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/ExpenceRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofrespo/TeamLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/DimLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/SetVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TurnTVOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/TurnTVOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/GenreFilterIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/SequentialIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ShuffleIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ChatMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ChatMediatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/PremiumUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/DocumentVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/VersionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/CancelledState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/DeliveredState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/NewState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/PaidState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ShippedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/CryptoPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/HTMLReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/PDFReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/PlainTextReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/ReportingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Visitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nk3QovBOVvEDcLTmvX30jXnd4d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChatMediatorDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.WeatherData.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/IdeaProjects/assignmentsdp/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="259552d0-5229-49f9-b777-57ca5464a53b" name="Changes" comment="" />
+      <created>1729503234956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729503234956</updated>
+      <workItem from="1729503236002" duration="7662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
